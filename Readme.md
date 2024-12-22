@@ -1,9 +1,9 @@
-MultiversX Account Generator and Faucet Script
+# MultiversX Account Generator and Faucet Script
 
-Project Overview
+# Project Overview
 This project provides a script that generates a specified number of accounts for each shard in the MultiversX network and attempts to request tokens from a third-party faucet. If the automated token request fails, the script provides instructions for manually requesting tokens through the MultiversX web wallet.
 
-How It Works
+# How It Works
 Account Generation:
 
 The script generates accounts using BIP39 mnemonics and seeds. Each account is associated with a mnemonic phrase, which can be used to recover the account.
@@ -19,9 +19,7 @@ If the request fails, it logs an error message with details.
 Manual Token Request:
 
 If automatic requests fail, the script instructs users on how to manually request tokens from the MultiversX web wallet.
-Detailed README.md
-markdown
-Copy
+
 # MultiversX Account Generator and Faucet Script
 
 This script generates three unique accounts for each shard in the MultiversX network and attempts to request tokens from a third-party faucet. If the automated request fails, instructions are provided for manually requesting tokens through the MultiversX web wallet.
