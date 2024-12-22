@@ -56,7 +56,6 @@ Mainnet Usage: If using these accounts on the mainnet, ensure robust security me
 Conclusion
 This script provides a streamlined method for generating and managing accounts across multiple shards in the MultiversX network. It automates the process of requesting tokens from a faucet while providing fallback instructions for manual intervention. The integration of sharding enhances transaction efficiency and scalability, aligning with the goals of distributed blockchain systems.
 
-Copy
 
 ### Key Points
 
